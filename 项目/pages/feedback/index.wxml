@@ -1,0 +1,27 @@
+<!--pages/feedback/index.wxml-->
+<tabs tabs="{{tabs}}" bindtabsItemChange="handleTabsItemChange">
+    <view wx:if="{{tabs[0].isActive}}" class="experience">
+        <view class="title">问题的种类</view>
+        <view class="tips">
+            <text>功能建议</text>
+            <text>购买遇到问题</text>
+            <text>性能问题</text>
+            <text>其他</text>
+        </view>
+        <view class="text_field">
+            <textarea placeholder="请描述一下问题" name="" id="" cols="30" rows="10"></textarea>
+            <view class="tool">
+                <button bindtap="handleChooseImg">+</button>
+                <upImg bindDleteImg="handleRemoveImg" wx:for="{{chooseImgs}}" src="{{item}}" wx:key="*this" index="{{index}}"></upImg>
+            </view>
+        </view>
+        <view class="btn_wrap">
+            <button type="warn" bindtap="handleSubmit">
+                <icon class="iconfont icon-gou"></icon>
+                提交
+            </button>
+        </view>
+    </view>
+    <block wx:if="{{tabs[1].isActive}}">2</block>
+    <block wx:if="{{tabs[2].isActive}}">3</block>
+</tabs>

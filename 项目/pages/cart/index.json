@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+        "digitalInput": "../../components/digitalInput/digitalInput"
+    },
+    "navigationBarTitleText": "购物车"
+}

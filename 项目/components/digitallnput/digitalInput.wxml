@@ -1,0 +1,8 @@
+<!--components/digitalInput/digitalInput.wxml-->
+<view class="wrap">
+    <view class="num_tool">
+        <text class="num_edit" bindtap="handleNumChange" data-state="{{-1}}">-</text>
+        <text class="goods_num">{{initnum}}</text>
+        <text class="num_edit" bindtap="handleNumChange" data-state="{{1}}">+</text>
+    </view>
+</view>

@@ -1,0 +1,5 @@
+<!--components/upimg/upImg.wxml-->
+<view class="up_img_wrap">
+    <text class="clear" bindtap="handleDeleteImg">X</text>
+    <image mode="scaleToFill" src="{{src}}"></image>
+</view>

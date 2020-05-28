@@ -1,0 +1,52 @@
+/* pages/feedback/index.scss */
+page {
+  background-color: #dedede; }
+
+.experience {
+  padding: 20rpx;
+  color: #666; }
+  .experience .tips {
+    display: flex;
+    flex-wrap: wrap; }
+    .experience .tips text {
+      width: 30%;
+      padding: 15rpx;
+      border-radius: 10rpx;
+      margin: 10rpx;
+      text-align: center;
+      background-color: white; }
+  .experience .text_field {
+    background-color: white;
+    border-radius: 10rpx;
+    margin-top: 20rpx; }
+    .experience .text_field textarea {
+      padding: 10rpx;
+      border-bottom: 1rpx solid #ccc; }
+    .experience .text_field .tool {
+      display: flex;
+      flex-wrap: wrap; }
+      .experience .text_field .tool button {
+        width: 90rpx;
+        height: 90rpx;
+        font-size: 60rpx;
+        color: #dedede;
+        font-weight: 600;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 15rpx; }
+  .experience .btn_wrap {
+    margin-top: 20rpx;
+    display: flex;
+    justify-content: flex-end; }
+    .experience .btn_wrap button {
+      width: 30%;
+      font-size: 35rpx;
+      color: white;
+      background-color: var(--themeColor);
+      padding: 10rpx;
+      margin: 0;
+      line-height: 200%; }
+    .experience .btn_wrap .icon-gou {
+      font-size: 30rpx; }

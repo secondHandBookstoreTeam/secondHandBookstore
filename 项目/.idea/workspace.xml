@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c9f5295-f888-4c25-b624-f7d9d7f7decc" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/fenlei.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/fenlei.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/fenlei1.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/fenlei1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/gerenzhongxin.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/gerenzhongxin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/gouwuche-copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/gouwuche-copy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/gouwuche.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/gouwuche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/yonghu.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/yonghu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/zhuye.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/zhuye.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_list/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aCMpbCyiLi9oyXWcVFVD71JARw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/test/BookChat" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\mini_shopping\icons" />
+      <recent name="D:\work\mini_shopping\styles\iconfont" />
+      <recent name="D:\work\mini_shopping\pages\collect" />
+      <recent name="D:\work\mini_shopping\pages\pay" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\mini_shopping\styles\image" />
+      <recent name="D:\work\mini_shopping\components\searchInput" />
+      <recent name="D:\work\mini_shopping\styles\iconfont" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.http.js">
+    <configuration name="http.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/request/http.js" working-dir="$PROJECT_DIR$/request">
+      <method v="2" />
+    </configuration>
+    <configuration name="tesy.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/request/tesy.js" working-dir="$PROJECT_DIR$/request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.http.js" />
+        <item itemvalue="Node.js.tesy.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c9f5295-f888-4c25-b624-f7d9d7f7decc" name="默认的" comment="" />
+      <created>1586235305314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586235305314</updated>
+      <workItem from="1586235306551" duration="377000" />
+      <workItem from="1586235715701" duration="31000" />
+      <workItem from="1586235789461" duration="58000" />
+      <workItem from="1586235882344" duration="11000" />
+      <workItem from="1586235929690" duration="168000" />
+      <workItem from="1586236130886" duration="10631000" />
+      <workItem from="1586317585148" duration="9335000" />
+      <workItem from="1586404201572" duration="5554000" />
+      <workItem from="1586489851911" duration="10625000" />
+      <workItem from="1586500940039" duration="3190000" />
+      <workItem from="1586522682470" duration="1213000" />
+      <workItem from="1586574358965" duration="15332000" />
+      <workItem from="1586661724442" duration="19024000" />
+      <workItem from="1586743432855" duration="16995000" />
+      <workItem from="1586837078577" duration="14352000" />
+      <workItem from="1586914394772" duration="7045000" />
+      <workItem from="1586934339319" duration="2880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="523" y="96" key="#JSON" timestamp="1586242129739">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="523" y="96" key="#JSON/0.0.1536.864@0.0.1536.864" timestamp="1586242129739" />
+    <state x="620" y="89" key="#JavaScript" timestamp="1586325423632">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="620" y="89" key="#JavaScript/0.0.1536.864@0.0.1536.864" timestamp="1586325423632" />
+    <state x="592" y="84" key="#SCSS" timestamp="1586243338670">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="592" y="84" key="#SCSS/0.0.1536.864@0.0.1536.864" timestamp="1586243338670" />
+    <state x="860" y="380" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586236096493">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="860" y="380" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.864@0.0.1536.864" timestamp="1586236096493" />
+    <state x="975" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586239281208">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="975" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1586239281208" />
+    <state x="607" y="267" key="#com.intellij.tools.ToolEditorDialog" timestamp="1586666039296">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="607" y="267" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.864@0.0.1536.864" timestamp="1586666039296" />
+    <state x="548" y="220" width="676" height="609" key="EditFileWatcherDialog" timestamp="1586494365497">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="220" width="676" height="609" key="EditFileWatcherDialog/0.0.1536.864@0.0.1536.864" timestamp="1586494365497" />
+    <state x="883" y="252" key="FileChooserDialogImpl" timestamp="1586954340168">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="883" y="252" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586954340168" />
+    <state width="1028" height="196" key="GridCell.Tab.0.bottom" timestamp="1586494559708">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1028" height="196" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586494559708" />
+    <state width="1028" height="196" key="GridCell.Tab.0.center" timestamp="1586494559708">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1028" height="196" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586494559708" />
+    <state width="1028" height="196" key="GridCell.Tab.0.left" timestamp="1586494559708">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1028" height="196" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586494559708" />
+    <state width="1028" height="196" key="GridCell.Tab.0.right" timestamp="1586494559708">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1028" height="196" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586494559708" />
+    <state x="434" y="67" key="SettingsEditor" timestamp="1586934899393">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="434" y="67" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586934899393" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1586575216677">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.864@0.0.1536.864" timestamp="1586575216677" />
+    <state x="826" y="208" key="run.anything.popup" timestamp="1586497823996">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="826" y="208" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586497823996" />
+    <state x="474" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1586914470945">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="474" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586914470945" />
+  </component>
+</project>
